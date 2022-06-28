@@ -20,7 +20,7 @@
 Сборщик Gulp  
 [gulp-less](https://www.npmjs.com/package/gulp-less)   
 Компиляция Less файлов  
-[gulp-sass]  (https://www.npmjs.com/package/gulp-sass)
+[gulp-sass](https://www.npmjs.com/package/gulp-sass)  
 Компиляция Sass файлов  
 [gulp-stylus](https://www.npmjs.com/package/gulp-stylus)  
 Компиляция Stylus файлов    
