@@ -28,7 +28,7 @@
 Преобразует JavaScript в старый стандарт  
 [gulp-concat](https://www.npmjs.com/package/gulp-concat)  
 Объединение нескольких файлов в один  
-[gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin)
+[gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin)  
 Сжимает image файлы
 [browser-sync](https://www.npmjs.com/package/browser-sync)
 Обновление браузера в реальном времени   
