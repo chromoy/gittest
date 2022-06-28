@@ -22,7 +22,7 @@
 Компиляция Less файлов  
 [gulp-sass](https://www.npmjs.com/package/gulp-sass)
 Компиляция Sass файлов  
-[gulp-stylus](https://www.npmjs.com/package/gulp-stylus)
+[gulp-stylus](https://www.npmjs.com/package/gulp-stylus)  
 Компиляция Stylus файлов    
 [gulp-babel](https://www.npmjs.com/package/gulp-babel)  
 Преобразует JavaScript в старый стандарт  
