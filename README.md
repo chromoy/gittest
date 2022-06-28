@@ -29,8 +29,8 @@
 [gulp-concat](https://www.npmjs.com/package/gulp-concat)  
 Объединение нескольких файлов в один  
 [gulp-imagemin](https://www.npmjs.com/package/gulp-imagemin)  
-Сжимает image файлы
-[browser-sync](https://www.npmjs.com/package/browser-sync)
+Сжимает image файлы  
+[browser-sync](https://www.npmjs.com/package/browser-sync)  
 Обновление браузера в реальном времени   
 [gulp-uglify](https://www.npmjs.com/package/gulp-uglify)  
 Сжатие и оптимизация JavaScript кода  
